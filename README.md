@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kanchana Ek
 
-### A passionate Frontend & Full Stack Web Developer from India 🇮🇳
+### A passionate Frontend Developer | HTML, CSS, JavaScript | Open to internships from India 🇮🇳
 
 - 🌱 Currently learning **Python Full Stack Development**  
 - 💻 Technologies: **HTML, CSS, JavaScript, PHP, Django, React.js, MySQL**  
