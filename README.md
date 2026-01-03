@@ -8,21 +8,6 @@
 - 📂 All my projects are available on **[GitHub](https://github.com/Kanchanaek)**  
 - 📫 How to reach me: **kanchanakailas04@gmail.com**
 
----
-
-### 📌 Key Projects:
-
-- **Full Stack Web Application (Capstone, 2025)**  
-  Developed a Django + React.js web app with authentication, REST APIs, and MySQL integration, improving data efficiency by 30%.  
-
-- **Retail Marketing Analysis (2023)**  
-  Analyzed 500+ customer purchase records to measure marketing impact, increasing targeting efficiency by 15%.  
-
-- **Business Management Case Studies (2022–2024)**  
-  Applied data-driven analysis to solve management challenges, enhancing decision-making skills.  
-
----
-
 ### 🖥️ Web & UI Projects:
 
 - 🍎 Apple Webpage Clone  
