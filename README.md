@@ -26,7 +26,7 @@
 ### 🌐 Connect with me:
 - [GitHub](https://github.com/Kanchanaek)  
 - [LinkedIn](https://www.linkedin.com/in/kanchana-ek-b00018286)  
-- 📱 Mobile: +91 88540 49090  
+- 📱 Mobile: +91 9188540490
 
 ---
 
