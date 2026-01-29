@@ -46,7 +46,7 @@ I like solving problems using logic and turning ideas into working products.
 
 ## 🌐 Connect With Me
 - 💻 GitHub: [Kanchanaek]https://github.com/Kanchanaek
-- 🔗 LinkedIn: [Kanchana Ek]linkedin.com/in/kanchana-ek-b00018286
+- 🔗 LinkedIn: [Kanchana Ek] https://www.linkedin.com/in/kanchana-ek-b00018286
 - 📧 Email: kanchanakailas04@gmail.com  
 - 📱 Mobile: +91 9188540490  
 
