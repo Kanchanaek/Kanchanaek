@@ -22,7 +22,7 @@ I like solving problems using logic and turning ideas into working products.
 ---
 
 ## 🖥️ Web & UI Projects
-- 🔧 **Device Issue Checker** – A Next.js web app that diagnoses basic issues in Android, iPhone, and Laptop devices using step-by-step questions  
+- 🔧 **Device Issue Checker** – A Next.js web app that diagnoses basic issues in Android, iPhone, and Laptop devices using           step-by-step questions  
 - 🍎 **Apple Website Clone** – Responsive Apple-style UI clone  
 - 🔍 **Google Home Page Clone** – Pixel-perfect homepage recreation  
 - 🧮 **Retro Calculator App** – Classic calculator built with JavaScript  
