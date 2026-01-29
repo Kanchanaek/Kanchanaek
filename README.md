@@ -1,36 +1,60 @@
 # Hi 👋, I'm Kanchana Ek
 
-### A passionate Frontend Developer | HTML, CSS, JavaScript | Open to internships from India 🇮🇳
+### 🚀 Frontend Developer | UI Enthusiast | Open to Internships 🇮🇳
 
-- 🌱 Currently learning **Python Full Stack Development**  
-- 💻 Technologies: **HTML, CSS, JavaScript, PHP, Django, React.js, MySQL**  
-- 🎯 Interests: **Frontend & Full Stack Web Development, Data Analysis**  
-- 📂 All my projects are available on **[GitHub](https://github.com/Kanchanaek)**  
-- 📫 How to reach me: **kanchanakailas04@gmail.com**
-
-### 🖥️ Web & UI Projects:
-
-- 🍎 Apple Webpage Clone  
-- 🔍 Google Home Page Clone  
-- 🧮 Retro Calculator App  
-- 🕒 System Time-Based Home Page  
-- 🏦 Open Bank Page  
-- 🛍️ Product Showcase Page  
-- 📦 Prod Mast – Product Management Web Application  
-- 🎨 CodePen UI Cards  
-
-**Technologies:** HTML, CSS, JavaScript, PHP  
+I’m a passionate frontend developer who enjoys building clean, responsive, and user-friendly web applications.  
+I like solving problems using logic and turning ideas into working products.
 
 ---
 
-### 🌐 Connect with me:
-- [GitHub](https://github.com/Kanchanaek)  
-- [LinkedIn](https://www.linkedin.com/in/kanchana-ek-b00018286)  
-- 📱 Mobile: +91 9188540490
+## 🌱 Currently Learning
+- Python Full Stack Development  
+- React.js & Django  
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+## 💻 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
+- **Backend:** Python, PHP, Django  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🖥️ Web & UI Projects
+- 🔧 **Device Issue Checker** – A Next.js web app that diagnoses basic issues in Android, iPhone, and Laptop devices using step-by-step questions  
+- 🍎 **Apple Website Clone** – Responsive Apple-style UI clone  
+- 🔍 **Google Home Page Clone** – Pixel-perfect homepage recreation  
+- 🧮 **Retro Calculator App** – Classic calculator built with JavaScript  
+- 🕒 **System Time-Based Home Page** – Dynamic UI based on system time  
+- 🏦 **Open Bank Page** – Banking-style landing page UI  
+- 🛍️ **Product Showcase Page** – Clean product listing interface  
+- 📦 **Prod Mast** – Product Management Web Application  
+- 🎨 **CodePen UI Cards** – Creative and modern UI card designs  
+
+📂 **All projects:** https://github.com/Kanchanaek
+
+---
+
+## 🎯 Interests
+- Frontend & Full Stack Development  
+- UI/UX Design  
+- Data Analysis  
+- Building real-world applications  
+
+---
+
+## 🌐 Connect With Me
+- 💻 GitHub: [Kanchanaek]https://github.com/Kanchanaek
+- 🔗 LinkedIn: [Kanchana Ek]linkedin.com/in/kanchana-ek-b00018286
+- 📧 Email: kanchanakailas04@gmail.com  
+- 📱 Mobile: +91 9188540490  
+
+---
+
+⭐ Thank you for visiting my GitHub profile!  
+✨ Always learning • Always building
+
 
 
 <!--
